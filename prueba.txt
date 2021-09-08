@@ -1,0 +1,583 @@
+num=1 comienzo=1748
+num=2 comienzo=3532
+num=3 comienzo=5260
+num=4 comienzo=6999
+num-> 1
+contador= 1748 hilo=1 ->Cassie|Uren|11/08/2019|55804 Kennedy Hill|5189600511|4151355697|New York|Albany
+
+Nombre Cassie
+Apellido Uren
+fecha 11/08/2019
+direccion 55804 Kennedy Hill
+phone 5189600511
+DPI 4151355697
+Departamento New York
+tokensalto..Albany
+Esperando..1
+Escribiendo..1
+Escribio..1
+nuevo=1828
+if(1828>=3532) hilo actual=1, hilo siguiente=2
+contador= 1748 hilo=1 ->Flossie|Giacobo|04/08/2020|184 Bluejay Trail|7197198053|3101759551|Colorado|Colorado Springs
+
+Nombre Flossie
+Apellido Giacobo
+fecha 04/08/2020
+direccion 184 Bluejay Trail
+phone 7197198053
+DPI 3101759551
+Departamento Colorado
+tokensalto..Colorado Springs
+Esperando..1
+Escribiendo..1
+num-> 2
+num-> 0
+num-> 3
+num-> 4
+contador= 0 hilo=0 ->Sancho|Kigelman|04/09/2021|01 Cardinal Park|7276490367|4153579685|Florida|Largo
+
+Nombre Sancho
+Apellido Kigelman
+fecha 04/09/2021
+direccion 01 Cardinal Park
+phone 7276490367
+DPI 4153579685
+Departamento Florida
+tokensalto..Largo
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=80
+if(80>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Sherm|M'Barron|20/07/2020|6706 Mcguire Plaza|9044857856|2031167582|Florida|Jacksonville
+
+Nombre Sherm
+Apellido M'Barron
+fecha 20/07/2020
+direccion 6706 Mcguire Plaza
+phone 9044857856
+DPI 2031167582
+Departamento Florida
+tokensalto..Jacksonville
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=168
+if(168>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Nadine|Bullman|12/05/2021|3657 Summer Ridge Crossing|7174696754|5741891233|Pennsylvania|Harrisburg
+
+Nombre Nadine
+Apellido Bullman
+fecha 12/05/2021
+direccion 3657 Summer Ridge Crossing
+phone 7174696754
+DPI 5741891233
+Departamento Pennsylvania
+tokensalto..Harrisburg
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=267
+if(267>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Gregor|Igglesden|26/01/2019|3 Mcguire Crossing|8607772583|2196582585|Connecticut|Hartford
+
+Nombre Gregor
+Apellido Igglesden
+fecha 26/01/2019
+direccion 3 Mcguire Crossing
+phone 8607772583
+DPI 2196582585
+Departamento Connecticut
+tokensalto..Hartford
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=357
+if(357>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Darci|Hanaby|13/12/2019|4197 Magdeline Center|4053181748|5039237711|Oklahoma|Oklahoma City
+
+Nombre Darci
+Apellido Hanaby
+fecha 13/12/2019
+direccion 4197 Magdeline Center
+phone 4053181748
+DPI 5039237711
+Departamento Oklahoma
+tokensalto..Oklahoma City
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=448
+if(448>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Price|Quinion|13/11/2020|596 Starling Terrace|3344129554|6261458967|Alabama|Montgomery
+
+Nombre Price
+Apellido Quinion
+fecha 13/11/2020
+direccion 596 Starling Terrace
+phone 3344129554
+DPI 6261458967
+Departamento Alabama
+tokensalto..Montgomery
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=535
+if(535>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Imogene|Portugal|15/12/2018|40647 Morrow Crossing|3345825673|5172655214|Alabama|Montgomery
+
+Nombre Imogene
+Apellido Portugal
+fecha 15/12/2018
+direccion 40647 Morrow Crossing
+phone 3345825673
+DPI 5172655214
+Departamento Alabama
+tokensalto..Montgomery
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=626
+if(626>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Hubie|Oret|06/01/2021|44 Dawn Pass|8167647181|8143243049|Missouri|Independence
+
+Nombre Hubie
+Apellido Oret
+fecha 06/01/2021
+direccion 44 Dawn Pass
+phone 8167647181
+DPI 8143243049
+Departamento Missouri
+tokensalto..Independence
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=705
+if(705>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Gavin|Rosone|01/02/2020|67 Calypso Drive|5057218823|2028919319|New Mexico|Albuquerque
+
+Nombre Gavin
+Apellido Rosone
+fecha 01/02/2020
+direccion 67 Calypso Drive
+phone 5057218823
+DPI 2028919319
+Departamento New Mexico
+tokensalto..Albuquerque
+Esperando..0
+Escribiendo..0
+Escribio..0
+nuevo=791
+if(791>=1748) hilo actual=0, hilo siguiente=1
+contador= 0 hilo=0 ->Maure|Dannell|27/01/2019|7491 Farragut Crossing|5709714453|2055020854|Pennsylvania|Wilkes Barre
+
+Nombre Maure
+Apellido Dannell
+fecha 27/01/2019
+direccion 7491 Farragut Crossing
+phone 5709714453
+DPI 2055020854
+Departamento Pennsylvania
+tokensalto..Wilkes Barre
+Esperando..0
+Escribiendo..0
+Escribio..0
+contador= 5260 hilo=3 ->Emlen|Barnfather|23/08/2018|59 Chive Trail|9739486361|8138457587|New Jersey|Paterson
+
+Nombre Emlen
+Apellido Barnfather
+fecha 23/08/2018
+direccion 59 Chive Trail
+phone 9739486361
+DPI 8138457587
+Departamento New Jersey
+tokensalto..Paterson
+Esperando..3
+Escribiendo..3
+Escribio..3
+nuevo=5345
+if(5345>=6999) hilo actual=3, hilo siguiente=4
+contador= 5260 hilo=3 ->Maurizio|Bothbie|11/09/2020|3044 Iowa Hill|7207577451|7573662031|Colorado|Littleton
+
+Nombre Maurizio
+Apellido Bothbie
+fecha 11/09/2020
+direccion 3044 Iowa Hill
+phone 7207577451
+DPI 7573662031
+Departamento Colorado
+tokensalto..Littleton
+Esperando..3
+Escribiendo..3
+Escribio..3
+nuevo=5429
+if(5429>=6999) hilo actual=3, hilo siguiente=4
+contador= 5260 hilo=3 ->Lyndel|Corkish|25/04/2019|283 Forest Dale Crossing|3149545009|5029365322|Missouri|Saint Louis
+
+Nombre Lyndel
+Apellido Corkish
+fecha 25/04/2019
+direccion 283 Forest Dale Crossing
+phone 3149545009
+DPI 5029365322
+Departamento Missouri
+tokensalto..Saint Louis
+Esperando..3
+Escribiendo..3
+Escribio..3
+nuevo=5523
+if(5523>=6999) hilo actual=3, hilo siguiente=4
+contador= 5260 hilo=3 ->Germain|Dailey|16/07/2021|7340 Stoughton Place|4053004963|3171767124|Oklahoma|Edmond
+
+Nombre Germain
+Apellido Dailey
+fecha 16/07/2021
+direccion 7340 Stoughton Place
+phone 4053004963
+DPI 3171767124
+Departamento Oklahoma
+tokensalto..Edmond
+Esperando..3
+Escribiendo..3
+Escribio..3
+nuevo=5608
+if(5608>=6999) hilo actual=3, hilo siguiente=4
+contador= 5260 hilo=3 ->Ozzie|Letch|10/10/2018|9364 Burrows Terrace|8593792995|4042713340|Kentucky|Lexington
+
+Nombre Ozzie
+Apellido Letch
+fecha 10/10/2018
+direccion 9364 Burrows Terrace
+phone 8593792995
+DPI 4042713340
+Departamento Kentucky
+tokensalto..Lexington
+Esperando..3
+Escribiendo..3
+Escribio..3
+nuevo=5693
+if(5693>=6999) hilo actual=3, hilo siguiente=4
+contador= 5260 hilo=3 ->Leola|Dand|02/04/2020|6672 Hoepker Parkway|2146346345|5044429395|Texas|Dallas
+
+Nombre Leola
+Apellido Dand
+fecha 02/04/2020
+direccion 6672 Hoepker Parkway
+phone 2146346345
+DPI 5044429395
+Departamento Texas
+tokensalto..Dallas
+Esperando..3
+Escribiendo..3
+Escribio..1
+Escribio..3
+nuevo=5771
+if(5771>=3532) hilo actual=1, hilo siguiente=2
+contador= 6999 hilo=4 ->Jilleen|Hailwood|06/07/2019|43 Pennsylvania Circle|7046582211|7174033573|North Carolina|Charlotte
+
+Nombre Jilleen
+Apellido Hailwood
+fecha 06/07/2019
+direccion 43 Pennsylvania Circle
+phone 7046582211
+DPI 7174033573
+Departamento North Carolina
+tokensalto..Charlotte
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7097
+if(7097>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Emlen|Barnfather|23/08/2018|59 Chive Trail|9739486361|8138457587|New Jersey|Paterson
+
+Nombre Emlen
+Apellido Barnfather
+fecha 23/08/2018
+direccion 59 Chive Trail
+phone 9739486361
+DPI 8138457587
+Departamento New Jersey
+tokensalto..Paterson
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7182
+if(7182>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Maurizio|Bothbie|11/09/2020|3044 Iowa Hill|7207577451|7573662031|Colorado|Littleton
+
+Nombre Maurizio
+Apellido Bothbie
+fecha 11/09/2020
+direccion 3044 Iowa Hill
+phone 7207577451
+DPI 7573662031
+Departamento Colorado
+tokensalto..Littleton
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7266
+if(7266>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Lyndel|Corkish|25/04/2019|283 Forest Dale Crossing|3149545009|5029365322|Missouri|Saint Louis
+
+Nombre Lyndel
+Apellido Corkish
+fecha 25/04/2019
+direccion 283 Forest Dale Crossing
+phone 3149545009
+DPI 5029365322
+Departamento Missouri
+tokensalto..Saint Louis
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7360
+if(7360>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Germain|Dailey|16/07/2021|7340 Stoughton Place|4053004963|3171767124|Oklahoma|Edmond
+
+Nombre Germain
+Apellido Dailey
+fecha 16/07/2021
+direccion 7340 Stoughton Place
+phone 4053004963
+DPI 3171767124
+Departamento Oklahoma
+tokensalto..Edmond
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7445
+if(7445>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Ozzie|Letch|10/10/2018|9364 Burrows Terrace|8593792995|4042713340|Kentucky|Lexington
+
+Nombre Ozzie
+Apellido Letch
+fecha 10/10/2018
+direccion 9364 Burrows Terrace
+phone 8593792995
+DPI 4042713340
+Departamento Kentucky
+tokensalto..Lexington
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7530
+if(7530>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Leola|Dand|02/04/2020|6672 Hoepker Parkway|2146346345|5044429395|Texas|Dallas
+
+Nombre Leola
+Apellido Dand
+fecha 02/04/2020
+direccion 6672 Hoepker Parkway
+phone 2146346345
+DPI 5044429395
+Departamento Texas
+tokensalto..Dallas
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7608
+if(7608>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Honoria|Matschoss|03/10/2018|0 Ridgeway Center|9131507551|5715451011|Kansas|Shawnee Mission
+
+Nombre Honoria
+Apellido Matschoss
+fecha 03/10/2018
+direccion 0 Ridgeway Center
+phone 9131507551
+DPI 5715451011
+Departamento Kansas
+tokensalto..Shawnee Mission
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7700
+if(7700>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Cornelius|Mattei|11/06/2019|09 Manufacturers Parkway|5044440569|7578124811|Louisiana|New Orleans
+
+Nombre Cornelius
+Apellido Mattei
+fecha 11/06/2019
+direccion 09 Manufacturers Parkway
+phone 5044440569
+DPI 7578124811
+Departamento Louisiana
+tokensalto..New Orleans
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7797
+if(7797>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Jayne|Devil|08/03/2021|93513 Mariners Cove Crossing|5749443029|6268083733|Indiana|South Bend
+
+Nombre Jayne
+Apellido Devil
+fecha 08/03/2021
+direccion 93513 Mariners Cove Crossing
+phone 5749443029
+DPI 6268083733
+Departamento Indiana
+tokensalto..South Bend
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7890
+if(7890>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Benedick|Theze|25/10/2018|8098 Pleasure Way|5181287991|7133721131|New York|Albany
+
+Nombre Benedick
+Apellido Theze
+fecha 25/10/2018
+direccion 8098 Pleasure Way
+phone 5181287991
+DPI 7133721131
+Departamento New York
+tokensalto..Albany
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=7972
+if(7972>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Rollo|Geering|28/03/2019|27 Northport Place|7178882995|4157264451|Pennsylvania|Lancaster
+
+Nombre Rollo
+Apellido Geering
+fecha 28/03/2019
+direccion 27 Northport Place
+phone 7178882995
+DPI 4157264451
+Departamento Pennsylvania
+tokensalto..Lancaster
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8061
+if(8061>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Goran|Drewet|14/07/2020|77 David Drive|9152000185|6194483332|Texas|El Paso
+
+Nombre Goran
+Apellido Drewet
+fecha 14/07/2020
+direccion 77 David Drive
+phone 9152000185
+DPI 6194483332
+Departamento Texas
+tokensalto..El Paso
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8136
+if(8136>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Lindy|Spittles|01/06/2018|4487 Almo Pass|5023324276|7048750210|Kentucky|Louisville
+
+Nombre Lindy
+Apellido Spittles
+fecha 01/06/2018
+direccion 4487 Almo Pass
+phone 5023324276
+DPI 7048750210
+Departamento Kentucky
+tokensalto..Louisville
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8219
+if(8219>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Danny|Fidelus|30/12/2018|86 Weeping Birch Street|7207190982|2027072189|Colorado|Denver
+
+Nombre Danny
+Apellido Fidelus
+fecha 30/12/2018
+direccion 86 Weeping Birch Street
+phone 7207190982
+DPI 2027072189
+Departamento Colorado
+tokensalto..Denver
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8306
+if(8306>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Chucho|Hay|25/01/2019|3 Crowley Street|7046431964|2136755799|North Carolina|Charlotte
+
+Nombre Chucho
+Apellido Hay
+fecha 25/01/2019
+direccion 3 Crowley Street
+phone 7046431964
+DPI 2136755799
+Departamento North Carolina
+tokensalto..Charlotte
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8392
+if(8392>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Toinette|Getch|17/01/2020|0447 Bowman Parkway|7278596763|2818139439|Florida|Saint Petersburg
+
+Nombre Toinette
+Apellido Getch
+fecha 17/01/2020
+direccion 0447 Bowman Parkway
+phone 7278596763
+DPI 2818139439
+Departamento Florida
+tokensalto..Saint Petersburg
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8485
+if(8485>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Cassi|Gritskov|19/06/2019|601 Gale Avenue|7161985450|5182649017|New York|Buffalo
+
+Nombre Cassi
+Apellido Gritskov
+fecha 19/06/2019
+direccion 601 Gale Avenue
+phone 7161985450
+DPI 5182649017
+Departamento New York
+tokensalto..Buffalo
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8566
+if(8566>=8661) hilo actual=4, hilo siguiente=5
+contador= 6999 hilo=4 ->Rozelle|Brimilcome|30/10/2020|4800 Messerschmidt Way|3178039654|9149079673|Indiana|Indianapolis
+Nombre Rozelle
+Apellido Brimilcome
+fecha 30/10/2020
+direccion 4800 Messerschmidt Way
+phone 3178039654
+DPI 9149079673
+Departamento Indiana
+tokensalto..Indianapolis
+Esperando..4
+Escribiendo..4
+Escribio..4
+nuevo=8661
+if(8661>=8661) hilo actual=4, hilo siguiente=5
+contador= 3532 hilo=2 ->Caren|Langstaff|23/04/2020|51 Esker Point|5186029730|3135168195|New York|Schenectady
+
+Nombre Caren
+Apellido Langstaff
+fecha 23/04/2020
+direccion 51 Esker Point
+phone 5186029730
+DPI 3135168195
+Departamento New York
+tokensalto..Schenectady
+Esperando..2
+Escribiendo..2
+Escribio..2
+nuevo=8661
+if(8661>=5260) hilo actual=2, hilo siguiente=3
+nuevo=8661
+if(8661>=1748) hilo actual=0, hilo siguiente=1
+nuevo=5771
+if(5771>=6999) hilo actual=3, hilo siguiente=4
+i=0 cantidad=0
+i=1 cantidad=1748
+i=2 cantidad=3532
+i=3 cantidad=5260
+i=4 cantidad=6999
