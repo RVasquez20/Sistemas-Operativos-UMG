@@ -1,0 +1,871 @@
+8625
+0=0
+1=1500
+2=3000
+3=4500
+4=6000
+5=7500
+6=9000
+7=10500
+8=12000
+9=13500
+10=15000
+11=16500
+12=18000
+13=19500
+14=21000
+15=22500
+16=24000
+17=25500
+18=27000
+19=28500
+20=30000
+21=31500
+22=33000
+23=34500
+24=36000
+25=37500
+26=39000
+0=0
+1=1500
+2=3000
+3=4500
+4=6000
+5=7500
+6=9000
+7=10500
+8=12000
+9=13500
+10=15000
+11=16500
+12=18000
+13=19500
+14=21000
+15=22500
+16=24000
+17=25500
+18=27000
+19=28500
+20=30000
+21=31500
+22=33000
+23=34500
+24=36000
+25=37500
+26=39000
+primer letra=83 
+primer pos=27000 id=18
+primera letra:S
+Sherm|M'Barron|20/07/2020|6706 Mcguire Plaza|9044857856|2031167582|Florida|Jacksonville            
+nueva pos=27100 id=18
+primer letra=83 
+primer pos=27100 id=18
+primera letra:S
+Sancho|Kigelman|04/09/2021|01 Cardinal Park|7276490367|4153579685|Florida|Largo                    
+nueva pos=27200 id=18
+primer letra=78 
+primer pos=19500 id=13
+primera letra:N
+Nadine|Bullman|12/05/2021|3657 Summer Ridge Crossing|7174696754|5741891233|Pennsylvania|Harrisburg 
+nueva pos=19600 id=13
+primer letra=71 
+primer pos=9000 id=6
+primera letra:G
+Gregor|Igglesden|26/01/2019|3 Mcguire Crossing|8607772583|2196582585|Connecticut|Hartford          
+nueva pos=9100 id=6
+primer letra=68 
+primer pos=4500 id=3
+primera letra:D
+Darci|Hanaby|13/12/2019|4197 Magdeline Center|4053181748|5039237711|Oklahoma|Oklahoma City         
+nueva pos=4600 id=3
+primer letra=80 
+primer pos=22500 id=15
+primera letra:P
+Price|Quinion|13/11/2020|596 Starling Terrace|3344129554|6261458967|Alabama|Montgomery             
+nueva pos=22600 id=15
+primer letra=73 
+primer pos=12000 id=8
+primera letra:I
+Imogene|Portugal|15/12/2018|40647 Morrow Crossing|3345825673|5172655214|Alabama|Montgomery         
+nueva pos=12100 id=8
+primer letra=72 
+primer pos=10500 id=7
+primera letra:H
+Hubie|Oret|06/01/2021|44 Dawn Pass|8167647181|8143243049|Missouri|Independence                     
+nueva pos=10600 id=7
+primer letra=71 
+primer pos=9100 id=6
+primera letra:G
+Gavin|Rosone|01/02/2020|67 Calypso Drive|5057218823|2028919319|New Mexico|Albuquerque              
+nueva pos=9200 id=6
+primer letra=77 
+primer pos=18000 id=12
+primera letra:M
+Maure|Dannell|27/01/2019|7491 Farragut Crossing|5709714453|2055020854|Pennsylvania|Wilkes Barre    
+nueva pos=18100 id=12
+primer letra=66 
+primer pos=1500 id=1
+primera letra:B
+Beatrice|Sillitoe|02/08/2018|40497 Graceland Lane|7205928128|6011359512|Colorado|Aurora            
+nueva pos=1600 id=1
+primer letra=79 
+primer pos=21000 id=14
+primera letra:O
+Obidiah|Wisher|15/07/2020|4808 Darwin Center|6096228978|8649629941|New Jersey|Trenton              
+nueva pos=21100 id=14
+primer letra=69 
+primer pos=6000 id=4
+primera letra:E
+Eleen|Aasaf|06/08/2021|4323 8th Place|4126549211|9168232542|Pennsylvania|Mc Keesport               
+nueva pos=6100 id=4
+primer letra=83 
+primer pos=27200 id=18
+primera letra:S
+Sibella|Bernardeau|13/06/2020|9730 Corry Pass|8162860733|9138389608|Missouri|Saint Joseph          
+nueva pos=27300 id=18
+primer letra=71 
+primer pos=9200 id=6
+primera letra:G
+Giana|Baverstock|11/06/2019|96 Norway Maple Lane|8176373946|8508012736|Texas|Fort Worth            
+nueva pos=9300 id=6
+primer letra=84 
+primer pos=28500 id=19
+primera letra:T
+Trumann|Randalston|16/08/2018|45 Drewry Road|8146300736|3105947716|Pennsylvania|Erie               
+nueva pos=28600 id=19
+primer letra=82 
+primer pos=25500 id=17
+primera letra:R
+Ricki|Gillebride|05/07/2019|0 Knutson Point|5704663529|2175405501|Pennsylvania|Scranton            
+nueva pos=25600 id=17
+primer letra=78 
+primer pos=19600 id=13
+primera letra:N
+Nomi|Rowlstone|16/06/2019|607 Manitowish Court|9549987681|4022977627|Florida|Fort Lauderdale       
+nueva pos=19700 id=13
+primer letra=77 
+primer pos=18100 id=12
+primera letra:M
+Megan|Jasik|10/09/2020|38137 Huxley Crossing|2051944449|7195828264|Alabama|Birmingham              
+nueva pos=18200 id=12
+primer letra=77 
+primer pos=18200 id=12
+primera letra:M
+Marlo|Pyford|30/08/2020|20 Grover Hill|2347572986|4053766986|Ohio|Akron                            
+nueva pos=18300 id=12
+primer letra=67 
+primer pos=3000 id=2
+primera letra:C
+Cassie|Uren|11/08/2019|55804 Kennedy Hill|5189600511|4151355697|New York|Albany                    
+nueva pos=3100 id=2
+primer letra=70 
+primer pos=7500 id=5
+primera letra:F
+Flossie|Giacobo|04/08/2020|184 Bluejay Trail|7197198053|3101759551|Colorado|Colorado Springs       
+nueva pos=7600 id=5
+primer letra=76 
+primer pos=16500 id=11
+primera letra:L
+Lucine|Fetters|09/05/2020|0760 Buena Vista Drive|5302711907|5858440894|California|Sacramento       
+nueva pos=16600 id=11
+primer letra=78 
+primer pos=19700 id=13
+primera letra:N
+Nickey|Merrin|19/12/2018|1 Buell Avenue|4067225065|6109622641|Montana|Billings                     
+nueva pos=19800 id=13
+primer letra=70 
+primer pos=7600 id=5
+primera letra:F
+Filbert|Loadwick|30/05/2019|49928 Sachtjen Lane|2058675897|4699276448|Alabama|Tuscaloosa           
+nueva pos=7700 id=5
+primer letra=88 
+primer pos=34500 id=23
+primera letra:X
+Xaviera|Lyles|30/11/2018|4707 Almo Drive|2052373644|5714190111|Alabama|Tuscaloosa                  
+nueva pos=34600 id=23
+primer letra=76 
+primer pos=16600 id=11
+primera letra:L
+Lizzy|Belamy|16/06/2020|926 Caliangt Lane|3168965402|5072322857|Kansas|Wichita                     
+nueva pos=16700 id=11
+primer letra=87 
+primer pos=33000 id=22
+primera letra:W
+Walliw|Elflain|10/07/2021|8382 Coleman Terrace|9074217376|3177338950|Alaska|Fairbanks              
+nueva pos=33100 id=22
+primer letra=70 
+primer pos=7700 id=5
+primera letra:F
+Fonz|Jeandillou|16/11/2020|845 Main Avenue|9041144611|8141555745|Florida|Jacksonville              
+nueva pos=7800 id=5
+primer letra=78 
+primer pos=19800 id=13
+primera letra:N
+Nissa|Muckle|24/07/2020|90 Goodland Park|3169451265|4078019338|Kansas|Wichita                      
+nueva pos=19900 id=13
+primer letra=72 
+primer pos=10600 id=7
+primera letra:H
+Hephzibah|McArd|11/08/2018|851 Dwight Terrace|4344963163|5049427929|Virginia|Lynchburg             
+nueva pos=10700 id=7
+primer letra=79 
+primer pos=21100 id=14
+primera letra:O
+Ozzie|BURWIN|27/09/2020|73810 Cascade Center|9371473616|2542925816|Ohio|Springfield                
+nueva pos=21200 id=14
+primer letra=76 
+primer pos=16700 id=11
+primera letra:L
+Lynnell|Rendle|21/05/2019|22833 Anderson Circle|9417968531|2051674443|Florida|North Port           
+nueva pos=16800 id=11
+primer letra=83 
+primer pos=27300 id=18
+primera letra:S
+Sari|Yakunchikov|12/07/2021|11582 Reindahl Way|9138672259|6169021647|Kansas|Kansas City            
+nueva pos=27400 id=18
+primer letra=68 
+primer pos=4600 id=3
+primera letra:D
+Debera|Yvon|09/06/2019|472 Eagle Crest Plaza|8012041159|9413206881|Utah|Salt Lake City             
+nueva pos=4700 id=3
+primer letra=70 
+primer pos=7800 id=5
+primera letra:F
+Fanchon|Stroobant|26/06/2021|162 Old Shore Point|3217076814|8043712752|Florida|Melbourne           
+nueva pos=7900 id=5
+primer letra=77 
+primer pos=18300 id=12
+primera letra:M
+Mose|McTaggart|30/05/2020|2373 Tennyson Drive|9165486392|5012760833|California|Sacramento          
+nueva pos=18400 id=12
+primer letra=84 
+primer pos=28600 id=19
+primera letra:T
+Titus|Nozzolii|29/10/2020|359 American Center|5401055734|6015850041|Virginia|Roanoke               
+nueva pos=28700 id=19
+primer letra=66 
+primer pos=1600 id=1
+primera letra:B
+Barnard|Hinder|29/10/2020|3795 Comanche Road|6027356056|9129958889|Arizona|Phoenix                 
+nueva pos=1700 id=1
+primer letra=87 
+primer pos=33100 id=22
+primera letra:W
+Wynnie|Cheng|01/05/2021|62 Donald Lane|9281706674|3127045543|Arizona|Prescott                      
+nueva pos=33200 id=22
+primer letra=72 
+primer pos=10700 id=7
+primera letra:H
+Hinda|Beels|30/06/2020|31 Elgar Park|8013819029|7134436617|Utah|Salt Lake City                     
+nueva pos=10800 id=7
+primer letra=67 
+primer pos=3100 id=2
+primera letra:C
+Caren|Langstaff|23/04/2020|51 Esker Point|5186029730|3135168195|New York|Schenectady               
+nueva pos=3200 id=2
+primer letra=71 
+primer pos=9300 id=6
+primera letra:G
+Guillema|Begwell|18/11/2019|692 Kenwood Circle|5036824431|2671982320|Oregon|Salem                  
+nueva pos=9400 id=6
+primer letra=75 
+primer pos=15000 id=10
+primera letra:K
+Kenny|Temperton|06/03/2020|48 Carioca Lane|3045804065|7148890709|West Virginia|Huntington          
+nueva pos=15100 id=10
+primer letra=82 
+primer pos=25600 id=17
+primera letra:R
+Roslyn|Moorhouse|04/03/2019|8 Comanche Junction|2029569540|2544512898|District of Columbia|Washingtonnueva pos=25701 id=17
+primer letra=75 
+primer pos=15100 id=10
+primera letra:K
+Kiley|Mundell|17/08/2021|905 Schmedeman Drive|6265830860|2133341595|California|Pasadena            
+nueva pos=15200 id=10
+primer letra=80 
+primer pos=22600 id=15
+primera letra:P
+Pall|Scolts|26/04/2019|3 Ramsey Hill|2128059488|6191382172|New York|New York City                  
+nueva pos=22700 id=15
+primer letra=70 
+primer pos=7900 id=5
+primera letra:F
+Filide|Gage|14/01/2021|4 Straubel Trail|5155760067|4126658738|Iowa|Des Moines                      
+nueva pos=8000 id=5
+primer letra=71 
+primer pos=9400 id=6
+primera letra:G
+Gabriel|Exer|20/10/2018|18 Oak Plaza|4042895920|5132083299|Georgia|Atlanta                         
+nueva pos=9500 id=6
+primer letra=86 
+primer pos=31500 id=21
+primera letra:V
+Velma|Murcutt|29/04/2020|8 Summerview Street|2093374099|3169241363|California|Stockton             
+nueva pos=31600 id=21
+primer letra=71 
+primer pos=9500 id=6
+primera letra:G
+Genni|Dailey|27/02/2021|8125 Chinook Parkway|6144362667|3607236487|Ohio|Columbus                   
+nueva pos=9600 id=6
+primer letra=65 
+primer pos=0 id=0
+primera letra:A
+Antonietta|Goulston|02/06/2020|1 Delladonna Trail|6011993283|7708213700|Mississippi|Jackson        
+nueva pos=100 id=0
+primer letra=67 
+primer pos=3200 id=2
+primera letra:C
+Clementius|Launchbury|22/10/2018|006 Birchwood Alley|2603799918|9186094879|Indiana|Fort Wayne      
+nueva pos=3300 id=2
+primer letra=69 
+primer pos=6100 id=4
+primera letra:E
+Edouard|Conneau|19/07/2019|80290 Thackeray Center|8166817924|2023908174|Missouri|Kansas City       
+nueva pos=6200 id=4
+primer letra=67 
+primer pos=3300 id=2
+primera letra:C
+Carla|Jagg|26/06/2019|275 Esch Circle|8606839640|6505276167|Connecticut|Hartford                   
+nueva pos=3400 id=2
+primer letra=71 
+primer pos=9600 id=6
+primera letra:G
+Geordie|Quin|25/03/2019|96111 Killdeer Drive|5738195780|4348153254|Missouri|Columbia               
+nueva pos=9700 id=6
+primer letra=80 
+primer pos=22700 id=15
+primera letra:P
+Pepe|De Blasiis|05/08/2018|997 Hoffman Junction|7194738859|9289840074|Colorado|Pueblo              
+nueva pos=22800 id=15
+primer letra=67 
+primer pos=3400 id=2
+primera letra:C
+Camel|Bontine|26/08/2021|73 Vera Street|8043989914|3048544894|Virginia|Richmond                    
+nueva pos=3500 id=2
+primer letra=75 
+primer pos=15200 id=10
+primera letra:K
+Kandace|Bartaletti|27/02/2021|23166 Almo Park|2169416973|2257157343|Ohio|Cleveland                 
+nueva pos=15300 id=10
+primer letra=83 
+primer pos=27400 id=18
+primera letra:S
+Sherie|Stone Fewings|08/12/2018|5941 Troy Alley|5138398404|6511030892|Ohio|Cincinnati              
+nueva pos=27500 id=18
+primer letra=74 
+primer pos=13500 id=9
+primera letra:J
+Jilleen|Hailwood|06/07/2019|43 Pennsylvania Circle|7046582211|7174033573|North Carolina|Charlotte  
+nueva pos=13600 id=9
+primer letra=69 
+primer pos=6200 id=4
+primera letra:E
+Emlen|Barnfather|23/08/2018|59 Chive Trail|9739486361|8138457587|New Jersey|Paterson               
+nueva pos=6300 id=4
+primer letra=77 
+primer pos=18400 id=12
+primera letra:M
+Maurizio|Bothbie|11/09/2020|3044 Iowa Hill|7207577451|7573662031|Colorado|Littleton                
+nueva pos=18500 id=12
+primer letra=76 
+primer pos=16800 id=11
+primera letra:L
+Lyndel|Corkish|25/04/2019|283 Forest Dale Crossing|3149545009|5029365322|Missouri|Saint Louis      
+nueva pos=16900 id=11
+primer letra=71 
+primer pos=9700 id=6
+primera letra:G
+Germain|Dailey|16/07/2021|7340 Stoughton Place|4053004963|3171767124|Oklahoma|Edmond               
+nueva pos=9800 id=6
+primer letra=79 
+primer pos=21200 id=14
+primera letra:O
+Ozzie|Letch|10/10/2018|9364 Burrows Terrace|8593792995|4042713340|Kentucky|Lexington               
+nueva pos=21300 id=14
+primer letra=76 
+primer pos=16900 id=11
+primera letra:L
+Leola|Dand|02/04/2020|6672 Hoepker Parkway|2146346345|5044429395|Texas|Dallas                      
+nueva pos=17000 id=11
+primer letra=72 
+primer pos=10800 id=7
+primera letra:H
+Honoria|Matschoss|03/10/2018|0 Ridgeway Center|9131507551|5715451011|Kansas|Shawnee Mission        
+nueva pos=10900 id=7
+primer letra=67 
+primer pos=3500 id=2
+primera letra:C
+Cornelius|Mattei|11/06/2019|09 Manufacturers Parkway|5044440569|7578124811|Louisiana|New Orleans   
+nueva pos=3600 id=2
+primer letra=74 
+primer pos=13600 id=9
+primera letra:J
+Jayne|Devil|08/03/2021|93513 Mariners Cove Crossing|5749443029|6268083733|Indiana|South Bend       
+nueva pos=13700 id=9
+primer letra=66 
+primer pos=1700 id=1
+primera letra:B
+Benedick|Theze|25/10/2018|8098 Pleasure Way|5181287991|7133721131|New York|Albany                  
+nueva pos=1800 id=1
+primer letra=82 
+primer pos=25701 id=17
+primera letra:R
+Rollo|Geering|28/03/2019|27 Northport Place|7178882995|4157264451|Pennsylvania|Lancaster           
+nueva pos=25801 id=17
+primer letra=71 
+primer pos=9800 id=6
+primera letra:G
+Goran|Drewet|14/07/2020|77 David Drive|9152000185|6194483332|Texas|El Paso                         
+nueva pos=9900 id=6
+primer letra=76 
+primer pos=17000 id=11
+primera letra:L
+Lindy|Spittles|01/06/2018|4487 Almo Pass|5023324276|7048750210|Kentucky|Louisville                 
+nueva pos=17100 id=11
+primer letra=68 
+primer pos=4700 id=3
+primera letra:D
+Danny|Fidelus|30/12/2018|86 Weeping Birch Street|7207190982|2027072189|Colorado|Denver             
+nueva pos=4800 id=3
+primer letra=67 
+primer pos=3600 id=2
+primera letra:C
+Chucho|Hay|25/01/2019|3 Crowley Street|7046431964|2136755799|North Carolina|Charlotte              
+nueva pos=3700 id=2
+primer letra=84 
+primer pos=28700 id=19
+primera letra:T
+Toinette|Getch|17/01/2020|0447 Bowman Parkway|7278596763|2818139439|Florida|Saint Petersburg       
+nueva pos=28800 id=19
+primer letra=67 
+primer pos=3700 id=2
+primera letra:C
+Cassi|Gritskov|19/06/2019|601 Gale Avenue|7161985450|5182649017|New York|Buffalo                   
+nueva pos=3800 id=2
+primer letra=82 
+primer pos=25801 id=17
+primera letra:R
+Rozelle|Brimilcome|30/10/2020|4800 Messerschmidt Way|3178039654|9149079673|Indiana|Indianapolis    
+nueva pos=25901 id=17
+primer letra=70 
+primer pos=8000 id=5
+primera letra:F
+Florette|McLardie|20/09/2018|76 Jackson Street|6096771877|8608920893|New Jersey|Trenton            
+nueva pos=8100 id=5
+primer letra=82 
+primer pos=25901 id=17
+primera letra:R
+Rickard|Dawkes|07/10/2019|4796 Menomonie Avenue|9192869147|8594675446|North Carolina|Raleigh       
+nueva pos=26001 id=17
+primer letra=65 
+primer pos=100 id=0
+primera letra:A
+Aurilia|Grumble|22/01/2021|86 Maywood Trail|2161265326|4134446977|Ohio|Cleveland                   
+nueva pos=200 id=0
+primer letra=75 
+primer pos=15300 id=10
+primera letra:K
+Koenraad|Franceschino|27/04/2020|041 Pankratz Terrace|6024432489|2029847340|Arizona|Phoenix        
+nueva pos=15400 id=10
+primer letra=77 
+primer pos=18500 id=12
+primera letra:M
+Marco|O'Rudden|21/02/2020|49 Northview Terrace|5157418439|3136039640|Iowa|Des Moines               
+nueva pos=18600 id=12
+primer letra=75 
+primer pos=15400 id=10
+primera letra:K
+Kalinda|Amdohr|20/07/2020|8570 Becker Alley|3056289917|9405760883|Florida|Miami                    
+nueva pos=15500 id=10
+primer letra=68 
+primer pos=4800 id=3
+primera letra:D
+Deena|Lett|28/11/2019|68483 Shopko Street|6504744532|9516215984|California|Redwood City            
+nueva pos=4900 id=3
+primer letra=75 
+primer pos=15500 id=10
+primera letra:K
+Klaus|Opfer|13/07/2021|20 Independence Place|7574813667|6232101026|Virginia|Hampton                
+nueva pos=15600 id=10
+primer letra=70 
+primer pos=8100 id=5
+primera letra:F
+Franzen|Meriott|25/05/2021|3212 Hoard Plaza|6467635181|5137172678|New York|New York City           
+nueva pos=8200 id=5
+primer letra=90 
+primer pos=37500 id=25
+primera letra:Z
+Zarah|Demcik|06/08/2021|510 Myrtle Alley|7061642955|5626740528|Georgia|Augusta                     
+nueva pos=37600 id=25
+primer letra=80 
+primer pos=22800 id=15
+primera letra:P
+Pearle|Smerdon|03/09/2020|2950 Randy Pass|4089011895|3053391432|California|San Jose                
+nueva pos=22900 id=15
+primer letra=83 
+primer pos=27500 id=18
+primera letra:S
+Sibella|Fihelly|03/02/2021|59036 Morrow Lane|3034613767|6784179175|Colorado|Denver                 
+nueva pos=27600 id=18
+primer letra=66 
+primer pos=1800 id=1
+primera letra:B
+Birdie|Keirle|26/04/2020|290 Pennsylvania Road|8176193448|8175628512|Texas|Denton                  
+nueva pos=1900 id=1
+primer letra=65 
+primer pos=200 id=0
+primera letra:A
+Alric|Sliman|28/05/2019|03 Monument Point|7146833733|3124869513|California|Santa Ana               
+nueva pos=300 id=0
+primer letra=71 
+primer pos=9900 id=6
+primera letra:G
+Georgeanne|McClinton|05/07/2019|7559 Cottonwood Pass|7575765513|8161751430|Virginia|Newport News   
+nueva pos=10000 id=6
+primer letra=87 
+primer pos=33200 id=22
+primera letra:W
+Wilt|McCanny|05/05/2020|65 Lindbergh Parkway|3473333248|7634338277|New York|Flushing               
+nueva pos=33300 id=22
+primer letra=77 
+primer pos=18600 id=12
+primera letra:M
+Magdalena|Da Costa|02/10/2020|67 Lawn Place|3211152137|2028336956|Florida|Orlando                  
+nueva pos=18700 id=12
+primer letra=86 
+primer pos=31600 id=21
+primera letra:V
+Valida|Sterricker|14/04/2020|2 Nevada Avenue|2122414651|6038414634|New York|New York City          
+nueva pos=31700 id=21
+primer letra=77 
+primer pos=18700 id=12
+primera letra:M
+Marlane|McGarahan|24/08/2018|5 Dennis Terrace|8045196472|8638010153|Virginia|Richmond              
+nueva pos=18800 id=12
+primer letra=74 
+primer pos=13700 id=9
+primera letra:J
+Jorry|Goncaves|22/10/2020|1 Chive Parkway|7065487587|4051481386|Georgia|Athens                     
+nueva pos=13800 id=9
+primer letra=66 
+primer pos=1900 id=1
+primera letra:B
+Bambi|Labro|07/05/2021|9 Victoria Drive|7193387288|9077962242|Colorado|Colorado Springs            
+nueva pos=2000 id=1
+if  300<1500
+lineas restantes=12                                                                                                   
+posrelleno=400lineas=12                                                                                                   
+posrelleno=500lineas=11                                                                                                   
+posrelleno=600lineas=10                                                                                                   
+posrelleno=700lineas=9                                                                                                   
+posrelleno=800lineas=8                                                                                                   
+posrelleno=900lineas=7                                                                                                   
+posrelleno=1000lineas=6                                                                                                   
+posrelleno=1100lineas=5                                                                                                   
+posrelleno=1200lineas=4                                                                                                   
+posrelleno=1300lineas=3                                                                                                   
+posrelleno=1400lineas=2                                                                                                   
+posrelleno=1500lineas=1if  2000<3000
+lineas restantes=10                                                                                                   
+posrelleno=2100lineas=10                                                                                                   
+posrelleno=2200lineas=9                                                                                                   
+posrelleno=2300lineas=8                                                                                                   
+posrelleno=2400lineas=7                                                                                                   
+posrelleno=2500lineas=6                                                                                                   
+posrelleno=2600lineas=5                                                                                                   
+posrelleno=2700lineas=4                                                                                                   
+posrelleno=2800lineas=3                                                                                                   
+posrelleno=2900lineas=2                                                                                                   
+posrelleno=3000lineas=1if  3800<4500
+lineas restantes=7                                                                                                   
+posrelleno=3900lineas=7                                                                                                   
+posrelleno=4000lineas=6                                                                                                   
+posrelleno=4100lineas=5                                                                                                   
+posrelleno=4200lineas=4                                                                                                   
+posrelleno=4300lineas=3                                                                                                   
+posrelleno=4400lineas=2                                                                                                   
+posrelleno=4500lineas=1if  4900<6000
+lineas restantes=11                                                                                                   
+posrelleno=5000lineas=11                                                                                                   
+posrelleno=5100lineas=10                                                                                                   
+posrelleno=5200lineas=9                                                                                                   
+posrelleno=5300lineas=8                                                                                                   
+posrelleno=5400lineas=7                                                                                                   
+posrelleno=5500lineas=6                                                                                                   
+posrelleno=5600lineas=5                                                                                                   
+posrelleno=5700lineas=4                                                                                                   
+posrelleno=5800lineas=3                                                                                                   
+posrelleno=5900lineas=2                                                                                                   
+posrelleno=6000lineas=1if  6300<7500
+lineas restantes=12                                                                                                   
+posrelleno=6400lineas=12                                                                                                   
+posrelleno=6500lineas=11                                                                                                   
+posrelleno=6600lineas=10                                                                                                   
+posrelleno=6700lineas=9                                                                                                   
+posrelleno=6800lineas=8                                                                                                   
+posrelleno=6900lineas=7                                                                                                   
+posrelleno=7000lineas=6                                                                                                   
+posrelleno=7100lineas=5                                                                                                   
+posrelleno=7200lineas=4                                                                                                   
+posrelleno=7300lineas=3                                                                                                   
+posrelleno=7400lineas=2                                                                                                   
+posrelleno=7500lineas=1if  8200<9000
+lineas restantes=8                                                                                                   
+posrelleno=8300lineas=8                                                                                                   
+posrelleno=8400lineas=7                                                                                                   
+posrelleno=8500lineas=6                                                                                                   
+posrelleno=8600lineas=5                                                                                                   
+posrelleno=8700lineas=4                                                                                                   
+posrelleno=8800lineas=3                                                                                                   
+posrelleno=8900lineas=2                                                                                                   
+posrelleno=9000lineas=1if  10000<10500
+lineas restantes=5                                                                                                   
+posrelleno=10100lineas=5                                                                                                   
+posrelleno=10200lineas=4                                                                                                   
+posrelleno=10300lineas=3                                                                                                   
+posrelleno=10400lineas=2                                                                                                   
+posrelleno=10500lineas=1if  10900<12000
+lineas restantes=11                                                                                                   
+posrelleno=11000lineas=11                                                                                                   
+posrelleno=11100lineas=10                                                                                                   
+posrelleno=11200lineas=9                                                                                                   
+posrelleno=11300lineas=8                                                                                                   
+posrelleno=11400lineas=7                                                                                                   
+posrelleno=11500lineas=6                                                                                                   
+posrelleno=11600lineas=5                                                                                                   
+posrelleno=11700lineas=4                                                                                                   
+posrelleno=11800lineas=3                                                                                                   
+posrelleno=11900lineas=2                                                                                                   
+posrelleno=12000lineas=1if  12100<13500
+lineas restantes=14                                                                                                   
+posrelleno=12200lineas=14                                                                                                   
+posrelleno=12300lineas=13                                                                                                   
+posrelleno=12400lineas=12                                                                                                   
+posrelleno=12500lineas=11                                                                                                   
+posrelleno=12600lineas=10                                                                                                   
+posrelleno=12700lineas=9                                                                                                   
+posrelleno=12800lineas=8                                                                                                   
+posrelleno=12900lineas=7                                                                                                   
+posrelleno=13000lineas=6                                                                                                   
+posrelleno=13100lineas=5                                                                                                   
+posrelleno=13200lineas=4                                                                                                   
+posrelleno=13300lineas=3                                                                                                   
+posrelleno=13400lineas=2                                                                                                   
+posrelleno=13500lineas=1if  13800<15000
+lineas restantes=12                                                                                                   
+posrelleno=13900lineas=12                                                                                                   
+posrelleno=14000lineas=11                                                                                                   
+posrelleno=14100lineas=10                                                                                                   
+posrelleno=14200lineas=9                                                                                                   
+posrelleno=14300lineas=8                                                                                                   
+posrelleno=14400lineas=7                                                                                                   
+posrelleno=14500lineas=6                                                                                                   
+posrelleno=14600lineas=5                                                                                                   
+posrelleno=14700lineas=4                                                                                                   
+posrelleno=14800lineas=3                                                                                                   
+posrelleno=14900lineas=2                                                                                                   
+posrelleno=15000lineas=1if  15600<16500
+lineas restantes=9                                                                                                   
+posrelleno=15700lineas=9                                                                                                   
+posrelleno=15800lineas=8                                                                                                   
+posrelleno=15900lineas=7                                                                                                   
+posrelleno=16000lineas=6                                                                                                   
+posrelleno=16100lineas=5                                                                                                   
+posrelleno=16200lineas=4                                                                                                   
+posrelleno=16300lineas=3                                                                                                   
+posrelleno=16400lineas=2                                                                                                   
+posrelleno=16500lineas=1if  17100<18000
+lineas restantes=9                                                                                                   
+posrelleno=17200lineas=9                                                                                                   
+posrelleno=17300lineas=8                                                                                                   
+posrelleno=17400lineas=7                                                                                                   
+posrelleno=17500lineas=6                                                                                                   
+posrelleno=17600lineas=5                                                                                                   
+posrelleno=17700lineas=4                                                                                                   
+posrelleno=17800lineas=3                                                                                                   
+posrelleno=17900lineas=2                                                                                                   
+posrelleno=18000lineas=1if  18800<19500
+lineas restantes=7                                                                                                   
+posrelleno=18900lineas=7                                                                                                   
+posrelleno=19000lineas=6                                                                                                   
+posrelleno=19100lineas=5                                                                                                   
+posrelleno=19200lineas=4                                                                                                   
+posrelleno=19300lineas=3                                                                                                   
+posrelleno=19400lineas=2                                                                                                   
+posrelleno=19500lineas=1if  19900<21000
+lineas restantes=11                                                                                                   
+posrelleno=20000lineas=11                                                                                                   
+posrelleno=20100lineas=10                                                                                                   
+posrelleno=20200lineas=9                                                                                                   
+posrelleno=20300lineas=8                                                                                                   
+posrelleno=20400lineas=7                                                                                                   
+posrelleno=20500lineas=6                                                                                                   
+posrelleno=20600lineas=5                                                                                                   
+posrelleno=20700lineas=4                                                                                                   
+posrelleno=20800lineas=3                                                                                                   
+posrelleno=20900lineas=2                                                                                                   
+posrelleno=21000lineas=1if  21300<22500
+lineas restantes=12                                                                                                   
+posrelleno=21400lineas=12                                                                                                   
+posrelleno=21500lineas=11                                                                                                   
+posrelleno=21600lineas=10                                                                                                   
+posrelleno=21700lineas=9                                                                                                   
+posrelleno=21800lineas=8                                                                                                   
+posrelleno=21900lineas=7                                                                                                   
+posrelleno=22000lineas=6                                                                                                   
+posrelleno=22100lineas=5                                                                                                   
+posrelleno=22200lineas=4                                                                                                   
+posrelleno=22300lineas=3                                                                                                   
+posrelleno=22400lineas=2                                                                                                   
+posrelleno=22500lineas=1if  22900<24000
+lineas restantes=11                                                                                                   
+posrelleno=23000lineas=11                                                                                                   
+posrelleno=23100lineas=10                                                                                                   
+posrelleno=23200lineas=9                                                                                                   
+posrelleno=23300lineas=8                                                                                                   
+posrelleno=23400lineas=7                                                                                                   
+posrelleno=23500lineas=6                                                                                                   
+posrelleno=23600lineas=5                                                                                                   
+posrelleno=23700lineas=4                                                                                                   
+posrelleno=23800lineas=3                                                                                                   
+posrelleno=23900lineas=2                                                                                                   
+posrelleno=24000lineas=1if  24000<25500
+lineas restantes=15                                                                                                   
+posrelleno=24100lineas=15                                                                                                   
+posrelleno=24200lineas=14                                                                                                   
+posrelleno=24300lineas=13                                                                                                   
+posrelleno=24400lineas=12                                                                                                   
+posrelleno=24500lineas=11                                                                                                   
+posrelleno=24600lineas=10                                                                                                   
+posrelleno=24700lineas=9                                                                                                   
+posrelleno=24800lineas=8                                                                                                   
+posrelleno=24900lineas=7                                                                                                   
+posrelleno=25000lineas=6                                                                                                   
+posrelleno=25100lineas=5                                                                                                   
+posrelleno=25200lineas=4                                                                                                   
+posrelleno=25300lineas=3                                                                                                   
+posrelleno=25400lineas=2                                                                                                   
+posrelleno=25500lineas=1if  26001<27000
+lineas restantes=10                                                                                                   
+posrelleno=26101lineas=10                                                                                                   
+posrelleno=26201lineas=9                                                                                                   
+posrelleno=26301lineas=8                                                                                                   
+posrelleno=26401lineas=7                                                                                                   
+posrelleno=26501lineas=6                                                                                                   
+posrelleno=26601lineas=5                                                                                                   
+posrelleno=26701lineas=4                                                                                                   
+posrelleno=26801lineas=3                                                                                                   
+posrelleno=26901lineas=2                                                                                                   
+posrelleno=27001lineas=1if  27600<28500
+lineas restantes=9                                                                                                   
+posrelleno=27700lineas=9                                                                                                   
+posrelleno=27800lineas=8                                                                                                   
+posrelleno=27900lineas=7                                                                                                   
+posrelleno=28000lineas=6                                                                                                   
+posrelleno=28100lineas=5                                                                                                   
+posrelleno=28200lineas=4                                                                                                   
+posrelleno=28300lineas=3                                                                                                   
+posrelleno=28400lineas=2                                                                                                   
+posrelleno=28500lineas=1if  28800<30000
+lineas restantes=12                                                                                                   
+posrelleno=28900lineas=12                                                                                                   
+posrelleno=29000lineas=11                                                                                                   
+posrelleno=29100lineas=10                                                                                                   
+posrelleno=29200lineas=9                                                                                                   
+posrelleno=29300lineas=8                                                                                                   
+posrelleno=29400lineas=7                                                                                                   
+posrelleno=29500lineas=6                                                                                                   
+posrelleno=29600lineas=5                                                                                                   
+posrelleno=29700lineas=4                                                                                                   
+posrelleno=29800lineas=3                                                                                                   
+posrelleno=29900lineas=2                                                                                                   
+posrelleno=30000lineas=1if  30000<31500
+lineas restantes=15                                                                                                   
+posrelleno=30100lineas=15                                                                                                   
+posrelleno=30200lineas=14                                                                                                   
+posrelleno=30300lineas=13                                                                                                   
+posrelleno=30400lineas=12                                                                                                   
+posrelleno=30500lineas=11                                                                                                   
+posrelleno=30600lineas=10                                                                                                   
+posrelleno=30700lineas=9                                                                                                   
+posrelleno=30800lineas=8                                                                                                   
+posrelleno=30900lineas=7                                                                                                   
+posrelleno=31000lineas=6                                                                                                   
+posrelleno=31100lineas=5                                                                                                   
+posrelleno=31200lineas=4                                                                                                   
+posrelleno=31300lineas=3                                                                                                   
+posrelleno=31400lineas=2                                                                                                   
+posrelleno=31500lineas=1if  31700<33000
+lineas restantes=13                                                                                                   
+posrelleno=31800lineas=13                                                                                                   
+posrelleno=31900lineas=12                                                                                                   
+posrelleno=32000lineas=11                                                                                                   
+posrelleno=32100lineas=10                                                                                                   
+posrelleno=32200lineas=9                                                                                                   
+posrelleno=32300lineas=8                                                                                                   
+posrelleno=32400lineas=7                                                                                                   
+posrelleno=32500lineas=6                                                                                                   
+posrelleno=32600lineas=5                                                                                                   
+posrelleno=32700lineas=4                                                                                                   
+posrelleno=32800lineas=3                                                                                                   
+posrelleno=32900lineas=2                                                                                                   
+posrelleno=33000lineas=1if  33300<34500
+lineas restantes=12                                                                                                   
+posrelleno=33400lineas=12                                                                                                   
+posrelleno=33500lineas=11                                                                                                   
+posrelleno=33600lineas=10                                                                                                   
+posrelleno=33700lineas=9                                                                                                   
+posrelleno=33800lineas=8                                                                                                   
+posrelleno=33900lineas=7                                                                                                   
+posrelleno=34000lineas=6                                                                                                   
+posrelleno=34100lineas=5                                                                                                   
+posrelleno=34200lineas=4                                                                                                   
+posrelleno=34300lineas=3                                                                                                   
+posrelleno=34400lineas=2                                                                                                   
+posrelleno=34500lineas=1if  34600<36000
+lineas restantes=14                                                                                                   
+posrelleno=34700lineas=14                                                                                                   
+posrelleno=34800lineas=13                                                                                                   
+posrelleno=34900lineas=12                                                                                                   
+posrelleno=35000lineas=11                                                                                                   
+posrelleno=35100lineas=10                                                                                                   
+posrelleno=35200lineas=9                                                                                                   
+posrelleno=35300lineas=8                                                                                                   
+posrelleno=35400lineas=7                                                                                                   
+posrelleno=35500lineas=6                                                                                                   
+posrelleno=35600lineas=5                                                                                                   
+posrelleno=35700lineas=4                                                                                                   
+posrelleno=35800lineas=3                                                                                                   
+posrelleno=35900lineas=2                                                                                                   
+posrelleno=36000lineas=1if  36000<37500
+lineas restantes=15                                                                                                   
+posrelleno=36100lineas=15                                                                                                   
+posrelleno=36200lineas=14                                                                                                   
+posrelleno=36300lineas=13                                                                                                   
+posrelleno=36400lineas=12                                                                                                   
+posrelleno=36500lineas=11                                                                                                   
+posrelleno=36600lineas=10                                                                                                   
+posrelleno=36700lineas=9                                                                                                   
+posrelleno=36800lineas=8                                                                                                   
+posrelleno=36900lineas=7                                                                                                   
+posrelleno=37000lineas=6                                                                                                   
+posrelleno=37100lineas=5                                                                                                   
+posrelleno=37200lineas=4                                                                                                   
+posrelleno=37300lineas=3                                                                                                   
+posrelleno=37400lineas=2                                                                                                   
+posrelleno=37500lineas=1if  37600<39000
+lineas restantes=14                                                                                                   
+posrelleno=37700lineas=14                                                                                                   
+posrelleno=37800lineas=13                                                                                                   
+posrelleno=37900lineas=12                                                                                                   
+posrelleno=38000lineas=11                                                                                                   
+posrelleno=38100lineas=10                                                                                                   
+posrelleno=38200lineas=9                                                                                                   
+posrelleno=38300lineas=8                                                                                                   
+posrelleno=38400lineas=7                                                                                                   
+posrelleno=38500lineas=6                                                                                                   
+posrelleno=38600lineas=5                                                                                                   
+posrelleno=38700lineas=4                                                                                                   
+posrelleno=38800lineas=3                                                                                                   
+posrelleno=38900lineas=2                                                                                                   
+posrelleno=39000lineas=1

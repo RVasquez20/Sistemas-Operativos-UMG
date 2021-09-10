@@ -7,20 +7,32 @@
 
 struct Persona
 {
-	char *nombre;
-	char *apellido;
-	char *fecha;
-	char *direccion;
-	char *phone;
-	char *DPI;
-	char *Departamento;
-	char *Municipio;
+	char nombre[50];
+	char apellido[50];
+	char fecha[50];
+	char direccion[50];
+	char phone[50];
+	char DPI[50];
+	char Departamento[50];
+	char Municipio[50];
 };
 struct Persona p;
-//Total de bytes a leer es de 120
+//Total de bytes a leer es de 400
 int main(int argc,char * argv[]){
+	long size;
+	FILE *b=fopen(argv[1],"r");
+	fseek(b,0,SEEK_END);
+	size= ftell(b);
+	fclose(b);
+long outPos[30];
+     long outPos2[30];
+     for (int i = 0; i<26; i++) {
+		outPos[i] = (long)((400*5)*i); //position of output with the letter 'B C ... Z'
+		printf("%d=%ld\n",i,outPos[i]);
 
+	}
 FILE *a=fopen(argv[1],"r");
+FILE *s=fopen("salidaprueba.csv","w");
 char line[500];
 
 while (!feof(a))
@@ -28,44 +40,84 @@ while (!feof(a))
 		fgets(line, sizeof(line), a);
 
 char *token="";
-		token = strtok(line, "|");
-		p.nombre=token;
-		printf("Nombre %s\n", p.nombre);
-		token = strtok(NULL, "|");
-		p.apellido=token;
-		printf("Apellido %s\n", p.apellido);
-		token = strtok(NULL, "|");
-		p.fecha=token;
-		printf("fecha %s\n", p.fecha);
-		token = strtok(NULL, "|");
-		p.direccion=token;
-		printf("direccion %s\n", p.direccion);
-		token = strtok(NULL, "|");
-		p.phone=token;
-		printf("phone %s\n", p.phone);
-		token = strtok(NULL, "|");
-		p.DPI=token;
-		printf("DPI %s\n", p.DPI);
-		token = strtok(NULL, "|");
-		p.Departamento=token;
-		printf("Departamento %s\n", p.Departamento);
-		token = strtok(NULL, "\n");
+token = strtok(line, "|");
+		strcpy(p.nombre,token);
+			
+			token = strtok(NULL, "|");
+			strcpy(p.apellido,token);
+
+			token = strtok(NULL, "|");
+			strcpy(p.fecha,token);
+			
+			token = strtok(NULL, "|");
+			strcpy(p.direccion,token);
+			
+			token = strtok(NULL, "|");
+			strcpy(p.phone,token);
+			
+			token = strtok(NULL, "|");
+			strcpy(p.DPI,token);
+			
+			token = strtok(NULL, "|");
+			strcpy(p.Departamento,token);
+			
+			token = strtok(NULL, "\n");
+			
+			strcpy(p.Municipio,token);
 
 		//tokensalto = strtok(token, "\n");
 		//printf("tokensalto..%s\n", tokensalto);
-		p.Municipio=token;
+		
 		//token = strtok(NULL, "\n");
 		//sem_wait(&sem1);
-printf("%s,%s,%s,%s,%s,%s,%s,%s\n", p.Departamento, p.Municipio, p.DPI, p.nombre, p.apellido, p.direccion, p.phone, p.fecha);
-
+		 int primeraletra=p.nombre[0];
+        printf("primer letra=%d \n",primeraletra);
+        int letterId = (int)(primeraletra-65);
+        printf("primer pos=%ld id=%d\n",outPos[letterId],letterId);
+        printf("primera letra:%c\n",primeraletra);
+        fseek(s,outPos[letterId], SEEK_SET);
+fprintf(s,"%s,%s,%s,%s,%s,%s,%s,%s\n", p.Departamento, p.Municipio, p.DPI, p.nombre, p.apellido, p.direccion, p.phone, p.fecha);
+outPos[letterId]=ftell(s);
+getchar();
 	}
-
+fclose(a);
+fclose(s);
 //for(int i=0;i<=100;i+=20){
 /*fseek(a,sizeof(p),SEEK_SET);
 fgets(line,sizeof(line),a);
 printf("est %s\n",line);
 //}
-fclose(a);*/
+
+   / char xy=(char)32;
+    char salto=(char)10;
+    for(int i=0;i<1;i++){
+        rewind(SALIDA);
+        printf("if %d<25 && %ld<%ld\n",i,outPos[i],outPos2[i+1]);
+        if(i<25 && outPos[i]<outPos2[i+1]){
+            int lineas=((outPos2[i+1]/89)-(outPos[i]/89))-1;
+            printf("lineas restantes=%d",lineas);
+           for(int p=lineas;p>=1;p--){
+                rewind(SALIDA);
+               fseek(SALIDA,outPos[i]+89, SEEK_SET);
+               long residuo=outPos[i]%89;
+               if(residuo!=0){
+                   residuo=89-residuo;
+               for(int j=0;j<residuo;j++){
+                   
+               fprintf(SALIDA,"%c",xy);
+               printf(" ");
+               
+               }
+               fprintf(SALIDA,"%c",salto);
+               outPos[i]=ftell(SALIDA);
+               printf("\n%ld",outPos[i]);
+               getchar();
+               printf("lineas=%d",p);
+                
+           }
+           }
+    }
+*/
 
 
 
